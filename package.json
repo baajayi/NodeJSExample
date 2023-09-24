@@ -1,11 +1,20 @@
 {
-  "name": "nodejsexample",
+  "name": "bamiapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "The app signifies the start of learning how to create a mobile app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run start"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "the repo is as indicated"
+  },
+  "keywords": [
+    "app",
+    "bam",
+    "learning"
+  ],
+  "author": "Bamidele Olawale Ajayi",
+  "license": "UNLICENSED"
 }
