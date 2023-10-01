@@ -4,7 +4,8 @@
   "description": "The app signifies the start of learning how to create a mobile app",
   "main": "index.js",
   "scripts": {
-    "test": "npm run start"
+    "test": "npm run start",
+    "hello":"node helloworld.js"
   },
   "repository": {
     "type": "git",
